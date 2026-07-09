@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tuncyenimcaldi.aternos.me",
+    "ip": "",
     "port": 21250,
     "version": "1.21.1",
     "try-creative": false
